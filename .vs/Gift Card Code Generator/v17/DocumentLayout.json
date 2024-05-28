@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Odhran\\source\\repos\\Gift Card Code Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99814C3D-9C6D-4002-9D21-DE6BD553C92A}|Gift Card Code Generator\\Gift Card Code Generator.csproj|c:\\users\\odhran\\source\\repos\\gift card code generator\\gift card code generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99814C3D-9C6D-4002-9D21-DE6BD553C92A}|Gift Card Code Generator\\Gift Card Code Generator.csproj|solutionrelative:gift card code generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Odhran\\source\\repos\\Gift Card Code Generator\\Gift Card Code Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Gift Card Code Generator\\Program.cs",
+              "ToolTip": "C:\\Users\\Odhran\\source\\repos\\Gift Card Code Generator\\Gift Card Code Generator\\Program.cs",
+              "RelativeToolTip": "Gift Card Code Generator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:36:17.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

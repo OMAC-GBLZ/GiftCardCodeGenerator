@@ -1,0 +1,14 @@
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\bin\Debug\net8.0\Gift Card Code Generator.exe
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\bin\Debug\net8.0\Gift Card Code Generator.deps.json
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\bin\Debug\net8.0\Gift Card Code Generator.runtimeconfig.json
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\bin\Debug\net8.0\Gift Card Code Generator.dll
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\bin\Debug\net8.0\Gift Card Code Generator.pdb
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.AssemblyInfoInputs.cache
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.AssemblyInfo.cs
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.dll
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\refint\Gift Card Code Generator.dll
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.pdb
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\Gift Card Code Generator.genruntimeconfig.cache
+C:\Users\Odhran\source\repos\Gift Card Code Generator\Gift Card Code Generator\obj\Debug\net8.0\ref\Gift Card Code Generator.dll

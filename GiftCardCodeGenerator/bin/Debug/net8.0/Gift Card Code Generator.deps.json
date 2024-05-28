@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gift Card Code Generator/1.0.0": {
+        "runtime": {
+          "Gift Card Code Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gift Card Code Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
