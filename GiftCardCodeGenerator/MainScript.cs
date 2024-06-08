@@ -37,7 +37,7 @@
             Console.Beep();
 
             //TODO use string builder to create a variable to store the result.
-            //Store result in new class with information about the code, i.e., if it has been redeemed, the value & expiry date
+            //Store result in new class with information about the code, i.e., if it has been redeemed, the value & expiry date - add SQL database to store the info
             //Checker to see if code already exists before issuing a new one
         }
     }
